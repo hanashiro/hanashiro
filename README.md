@@ -29,5 +29,5 @@ Web Developer specialist in Front End, technical instructor, speaker and writer.
 - [Blog](https://treinaweb.com.br/blog)
 - [Courses](https://treinaweb.com.br) (HTML, CSS, JavaScript, Angular, React, React Native, Flux, Redux, Node, Express, Sass, Jasmine, MongoDB, Vue, Electron, WebPack, etc)
 - [My GraphQL Book](https://www.casadocodigo.com.br/products/livro-graphql)
-- [programming and Career Tips](https://instagram.com/akirahanashiro) (Instagram)
+- [Programming and Career Tips](https://instagram.com/akirahanashiro) (Instagram)
 - [Programming Tips](https://www.youtube.com/user/TreinaWeb) (TreinaWeb YouTube Channel)
