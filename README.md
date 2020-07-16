@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![Akira Hanashiro](https://github.com/hanashiro/hanashiro/blob/master/linkedin-cover.jpg?raw=true)
 
 # Akira Hanashiro 
 🇧🇷🇯🇵
