@@ -31,3 +31,14 @@ Web Developer specialist in Front End, Game Developer specialist in Unity, techn
 - [My GraphQL Book](https://www.casadocodigo.com.br/products/livro-graphql)
 - [Programming and Career Tips](https://instagram.com/akirahanashiro) (Instagram)
 - [Programming Tips](https://www.youtube.com/user/TreinaWeb) (TreinaWeb YouTube Channel)
+
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=hanashiro&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
+    />
+  </a>
+</p>
