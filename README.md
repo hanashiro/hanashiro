@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/hanashiro)](https://github.com/hanashiro)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hanashiro/)](https://www.linkedin.com/in/hanashiro/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/akirahanashiro)](https://twitter.com/akirahanashiro)
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/@akifunciona)](https://www.youtube.com/@akifunciona)
 
 Web Developer specialist in Front End, Game Developer specialist in Unity, technical instructor, speaker and writer.
 - [Portfolio](https://hanashiro.vercel.app/)
@@ -31,11 +31,11 @@ Web Developer specialist in Front End, Game Developer specialist in Unity, techn
 - [My Games on Itch.io](https://mewters.itch.io/)
 - [My GraphQL Book](https://www.casadocodigo.com.br/products/livro-graphql)
 - [Programming and Career Tips](https://instagram.com/akirahanashiro) (Instagram)
-- [Blog](https://treinaweb.com.br/blog)
-- [Courses](https://treinaweb.com.br) (HTML, CSS, JavaScript, Angular, React, React Native, Flux, Redux, Node, Express, Sass, Jasmine, MongoDB, Vue, Electron, WebPack, etc)
+- [Blog](https://www.treinaweb.com.br/blog/autor/akira-hanashiro)
+- [Courses](https://www.treinaweb.com.br/cursos?q=hanashiro) (HTML, CSS, JavaScript, Angular, React, React Native, Flux, Redux, Node, Express, Sass, Jasmine, MongoDB, Vue, Electron, WebPack, etc)
 
 
-- [Programming Tips](https://www.youtube.com/user/TreinaWeb) (TreinaWeb YouTube Channel)
+- [Programming Tips](https://www.youtube.com/@akifunciona) (YouTube Channel)
 
 
 
