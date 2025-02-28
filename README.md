@@ -30,14 +30,12 @@ Web Developer specialist in Front End, Game Developer specialist in Unity, techn
 - [Portfolio](https://hanashiro.vercel.app/)
 - [Nexycode](https://nexycode.com/) (Software Consultancy)
 - [OpenChallenge](https://openchallenge.dev) (Learn programming in the browser with A.I.)
-- [WebSite of my Games](https://mewters.com)
+- [Mewters](https://mewters.com) (WebSite of my Games)
 - [My Games on Itch.io](https://mewters.itch.io/)
 - [My GraphQL Book](https://www.casadocodigo.com.br/products/livro-graphql)
 - [Programming and Career Tips](https://instagram.com/akirahanashiro) (Instagram)
 - [Blog](https://www.treinaweb.com.br/blog/autor/akira-hanashiro)
 - [Courses](https://www.treinaweb.com.br/cursos?q=hanashiro) (HTML, CSS, JavaScript, Angular, React, React Native, Flux, Redux, Node, Express, Sass, Jasmine, MongoDB, Vue, Electron, WebPack, etc)
-
-
 - [Programming Tips](https://www.youtube.com/@akifunciona) (YouTube Channel)
 
 
