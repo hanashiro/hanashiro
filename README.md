@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 Web Developer specialist in Front End, Game Developer specialist in Unity, technical instructor, speaker and writer.
 - [Portfolio](https://hanashiro.vercel.app/)
-- [Nexycode - Software Consultancy](https://nexycode.com/)
+- [Nexycode](https://nexycode.com/) (Software Consultancy)
 - [OpenChallenge](https://openchallenge.dev) (Learn programming in the browser with A.I.)
 - [WebSite of my Games](https://mewters.com)
 - [My Games on Itch.io](https://mewters.itch.io/)
